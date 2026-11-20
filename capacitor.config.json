@@ -1,0 +1,8 @@
+{
+  "appId": "dev.jhyoo.mythblock",
+  "appName": "신화 블록",
+  "webDir": "docs",
+  "backgroundColor": "#22398A",
+  "ios": { "contentInset": "never", "backgroundColor": "#22398A" },
+  "android": { "backgroundColor": "#22398A" }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "myth-block",
+  "version": "1.0.0",
+  "private": true,
+  "description": "신화 블록 — 알에서 태어나는 신화 영웅 수집 블록 퍼즐",
+  "scripts": {
+    "sync": "npx cap sync",
+    "ios": "npx cap open ios",
+    "android": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/assets": "^4.0.0",
+    "@capacitor/cli": "^8.6.2",
+    "@capacitor/core": "^8.6.2",
+    "@capacitor/ios": "^8.6.2"
+  }
+}
