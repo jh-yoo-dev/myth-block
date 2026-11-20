@@ -42,22 +42,28 @@
 · 먹구름 게이지가 차면 먹구름 블록이 떨어져요
 · 보드 위의 알은 9수 안에 지워야 해요
 
+■ 단계가 오를수록 짜릿하게
+· 점수가 쌓이면 단계가 올라가요. 먹구름은 빨라지지만 점수와 좋은 알 확률도 올라가요
+
+■ 매주 새로 시작하는 주간 랭킹
+· 닉네임만 정하면 바로 랭킹 도전! 매주 월요일 초기화
+
 ■ 귀여운 픽셀 도트
 · 모든 영웅을 손맛 나는 도트로 그렸어요
 
-회원가입 없이 바로 시작! 기록은 내 기기에만 저장돼요.
+회원가입 없이 바로 시작!
 
 ## 키워드 (iOS, 100자, 쉼표 구분)
 블록,퍼즐,블록퍼즐,신화,영웅,수집,도트,픽셀,제우스,토르,주몽,구미호,캐주얼,오프라인,두뇌
 
-## 개인정보 라벨 / 데이터 보안
-- iOS App Privacy: "데이터를 수집하지 않음(Data Not Collected)"
-- Google Play 데이터 보안: 수집·공유 데이터 없음, 암호화 해당 없음, 데이터 삭제 요청 해당 없음
+## 개인정보 라벨 / 데이터 보안 (v1.1 랭킹 추가 후)
+- iOS App Privacy → 수집함: **사용자 ID**(익명 식별번호), **기타 사용자 콘텐츠**(닉네임), **게임 플레이 내용**(점수) — 모두 "앱 기능" 목적, 사용자와 연결됨(익명), 추적에 사용 안 함
+- Google Play 데이터 보안 → 수집: 앱 활동(게임 점수·기타 사용자 생성 콘텐츠=닉네임), 기기 또는 기타 ID(익명 ID) / 공유 안 함 / 전송 중 암호화 예(HTTPS) / 앱 안에서 삭제 가능(설정 → 랭킹 기록 삭제) / 랭킹 참여는 선택
 - 광고 포함: 아니요 (나중에 광고를 넣으면 둘 다 고쳐야 함)
 
 ## 심사 메모 (App Review Notes)
-로그인 없이 바로 플레이할 수 있는 오프라인 블록 퍼즐입니다. 외부 서버 통신·결제·광고가 없습니다.
-This is an offline block puzzle game. No login, no network, no ads, no in-app purchases.
+로그인 없이 바로 플레이할 수 있는 블록 퍼즐입니다. 결제·광고는 없고, 선택 기능인 주간 랭킹만 익명 ID와 닉네임으로 서버를 씁니다.
+This is a block puzzle game. No login, no ads, no in-app purchases. An optional weekly leaderboard uses an anonymous ID and a user-chosen nickname; users can delete it in Settings → 랭킹 기록 삭제.
 
 ## 이미지
 - 스크린샷 iPhone 6.7형(1290×2796): screenshots/iphone-6.7-1~5.png
