@@ -1,6 +1,6 @@
 {
   "name": "myth-block",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "private": true,
   "description": "신화 블록 — 알에서 태어나는 신화 영웅 수집 블록 퍼즐",
   "scripts": {
