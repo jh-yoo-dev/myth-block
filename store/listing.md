@@ -11,7 +11,9 @@
 | 연령 등급 | iOS 4+ / Google Play 전체이용가 (폭력·도박·광고 없음) |
 | 개인정보 처리방침 | https://jh-yoo-dev.github.io/myth-block/privacy.html |
 | 지원 URL | https://jh-yoo-dev.github.io/myth-block/ |
-| 저작권 | © 2026 {{운영자 이름}} |
+| 지원 이메일 | jh.yoo.dev@gmail.com |
+| 개발자 표시 이름 | 도트공장장 |
+| 저작권 | © 2026 도트공장장 |
 
 ## 짧은 설명 (Google Play, 80자)
 블록을 지우면 알에서 제우스·토르·주몽이 태어나요! 신화 영웅 50명을 모으는 도트 블록 퍼즐
